@@ -1,5 +1,5 @@
 # Tugas-Akhir-Dicoding-Membuat-Website-Portfolio
-### Belajar Dasar Pemrograman Web Learning Path "Front-End Web Developer" dari Dicoding Academy
+### Belajar Membuat Front-End Web untuk Pemula Learning Path "Front-End Web Developer" dari Dicoding Academy
 ## HTML-CSS-JavaScript Vanilla
 repo ini adalah tugas akhir dari dicodingacademy
 1x rejection
